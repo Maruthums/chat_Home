@@ -1,0 +1,17 @@
+export const menu = require('./menu.png');
+export const back = require('./left-arrow.png');
+export const profile = require('./profile.png');
+export const call = require('./telephone-call.png');
+export const videocam = require('./video-camera.png');
+export const telegram = require('./telegram.png');
+export const home = require('./home.png');
+export const credit = require('./speedometer1.png');
+export const heart = require('./heart.png');
+export const chat = require('./chat.png');
+export const homeSave = require('./house.png');
+export const backImg = require('./backImg.jpg');
+export const notification = require('./notification1.png');
+export const banner = require('./banner.png');
+export const banner2 = require('./banner2.png');
+export const villa = require('./villa.jpg');
+export const notification1 = require('./notification.png');
